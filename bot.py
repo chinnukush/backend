@@ -1,9 +1,12 @@
-FROM python:3.9-slim
+FROM python:3.10-slim
 
 WORKDIR /app
 
-COPY . /app
+# Update package lists and install Git
+RUN apt-get update && apt-get install -y git
 
-RUN pip install -r requirements.txt
-
-CMD ["python", "bot.py"]
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+COPY . .
+RUN chmod +x start.sh
+CMD ["bash", "start.sh"]
