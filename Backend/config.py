@@ -20,5 +20,5 @@ class Telegram:
     MULTI_CLIENT = getenv("MULTI_CLIENT", "False").lower() == "true"
     USE_CAPTION = getenv("USE_CAPTION", "False").lower() == "true"
     USE_TMDB = getenv("USE_TMDB", "False").lower() == "true"
-    OWNER_ID = int(getenv("OWNER_ID", "5422223708"))
+    OWNER_ID = int(getenv("OWNER_ID", "7253187871"))
     USE_DEFAULT_ID = getenv("USE_DEFAULT_ID", None)
