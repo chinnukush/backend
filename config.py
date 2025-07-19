@@ -11,7 +11,7 @@ TMDB_API = ""
 IMDB_API = "https://imdb-api.pandapelisv.workers.dev/"
 
 # SERVER
-BASE_URL = "https://grim-robenia-koyebuser123-05b315bb.koyeb.ap"  
+BASE_URL = "https://grim-robenia-koyebuser123-05b315bb.koyeb.app"  
 PORT = "8000"
 
 # Update
@@ -19,7 +19,7 @@ UPSTREAM_REPO = "https://github.com/chinnukush/backend"
 UPSTREAM_BRANCH = "main"
 
 # Additional CDN Bots
-# MULTI_TOKEN1 = ""
+# MULTI_TOKEN1 = "7390174586:AAGlfMP3iN70hjpHAfB8YcUna5tDgpLXC4w"
 
 USE_CAPTION = "True"
 USE_TMDB = "False"
