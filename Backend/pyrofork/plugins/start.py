@@ -198,7 +198,7 @@ async def start(bot: Client, message: Message):
             sent_messages.append(warning_msg)
             create_task(delete_messages_after_delay(sent_messages))
     else:
-        await message.reply_text("Hello 👋")
+        await message.reply_text("I am here to provide direct download links for movies & series from hk-movie-spot.vercel.app 📥 Just send a file link to get started!")
 
 
 
