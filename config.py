@@ -8,7 +8,7 @@ BOT_TOKEN = "7313932976:AAFnh1bszQItH6U3bZAwCXwXj58m2AxyhcM"
 AUTH_CHANNEL = "-1002723124765"
 DATABASE = "mongodb+srv://fyviodemo:XKr72sW6QOzDAU8Y@cluster0.5y1fiek.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 TMDB_API = "6abcb6bb99fb77f33c37016a28866ed2"
-IMDB_API = "https://imdb-api.pandapelisv.workers.dev/"
+IMDB_API = ""
 
 # SERVER
 BASE_URL = "https://grim-robenia-koyebuser123-05b315bb.koyeb.app"  
