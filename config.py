@@ -11,7 +11,7 @@ TMDB_API = "6abcb6bb99fb77f33c37016a28866ed2"
 IMDB_API = ""
 
 # SERVER
-BASE_URL = "https://grim-robenia-koyebuser123-05b315bb.koyeb.app"  
+BASE_URL = "https://willing-bathsheba-koyebuser123-644c06c2.koyeb.app"  
 PORT = "8000"
 
 # Update
