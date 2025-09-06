@@ -15,7 +15,7 @@ BASE_URL = "https://willing-bathsheba-koyebuser123-644c06c2.koyeb.app"
 PORT = "8000"
 
 # Update
-UPSTREAM_REPO = "https://github.com/Kushalhk/Backend_bot"
+UPSTREAM_REPO = "https://github.com/chinnukush/backend"
 UPSTREAM_BRANCH = "main"
 
 # Additional CDN Bots
