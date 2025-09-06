@@ -11,7 +11,7 @@ TMDB_API = "6abcb6bb99fb77f33c37016a28866ed2"
 IMDB_API = "https://imdb-api.pandapelisv.workers.dev"
 
 # SERVER
-BASE_URL = "https://willing-bathsheba-koyebuser123-644c06c2.koyeb.app"  
+BASE_URL = "inclined-alpaca-madhumc-f2bb3ff4.koyeb.app"  
 PORT = "8000"
 
 # Update
